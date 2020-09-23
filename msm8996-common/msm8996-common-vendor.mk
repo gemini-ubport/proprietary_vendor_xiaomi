@@ -634,16 +634,16 @@ PRODUCT_PACKAGES += \
     libantradio \
     libsdm-disp-vndapis \
     libthermalclient \
-    QtiTelephonyService \
     uceShimService \
-    CNEService \
     SmartcardService \
-    WfdService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    PowerOffAlarm \
-    TimeService \
-    WfdCommon \
     ReferenceFeature \
     chargeonlymode
+#    QtiTelephonyService \
+#    CNEService \
+#    WfdService \
+#    dpmserviceapp \
+#    ims \
+#    qcrilmsgtunnel \
+#    PowerOffAlarm \
+#    TimeService \
+#    WfdCommon \
